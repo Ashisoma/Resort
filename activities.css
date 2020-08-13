@@ -1,12 +1,9 @@
 body{
-    background: linear-gradient(to right, #9c27b0,);
-
+    background-color: olivedrab;
 }
-
 nav{
     text-align: end;
     padding: 20px;
-    background-color: olivedrab;
 }
 nav ul li{
     padding: 20px;
@@ -20,10 +17,22 @@ nav ul li{
 nav ul li a:hover{
     border: olivedrab;
 }
-img{
-    width:400px;
-    border-radius: 1px gray;
+.main{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 0 auto;
 }
-p{
-    font-size: 25px;
+#row{
+    width:40%;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 2px #333;
+    margin:10px;
+}
+img{
+    height: 250px;
+}
+#img4{
+    width: 363px;
 }

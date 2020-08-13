@@ -1,7 +1,13 @@
+body{
+    background-image: url("https://i.imgur.com/eEfC5IR.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
 nav{
     text-align: end;
     padding: 20px;
     text-decoration: none;
+    color: white;
 }
 nav ul li{
     padding: 20px;
@@ -23,6 +29,7 @@ nav ul li a:hover{
     padding: 20px;
     border-radius: 10px solid black;
     height: 500px;
+    color: white;
 }
 #name{
     font-size: large;
