@@ -1,0 +1,16 @@
+img {
+    height: 400px;
+    width: auto;
+}
+h3 {
+    text-align: center;
+}
+nav ul li {
+    display: flex;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul li a:hover{
+    color: skyblue;
+}
