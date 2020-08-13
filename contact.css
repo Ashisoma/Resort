@@ -1,0 +1,55 @@
+nav{
+    text-align: end;
+    padding: 20px;
+    text-decoration: none;
+}
+nav ul li{
+    padding: 20px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none ;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul li a:hover{
+    border: olivedrab;
+}
+.form{
+    background: rgba(0,0,0,0.5);
+    margin: 0px 0px 0px 430px;
+    width: 500px;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px solid black;
+    height: 500px;
+}
+#name{
+    font-size: large;
+    padding: 5px;
+    border-radius: solid black;
+
+}
+#num{
+    font-size: large;
+    padding: 5px;
+    border-radius: solid black;
+}
+#email{
+    font-size: large;
+    padding: 5px;
+    border-radius: solid black;
+    
+}
+#date{
+    font-size: large;
+    padding: 5px;
+    border-radius: solid black;
+    
+}
+#button{
+    font-size: large;
+    padding: 5px;
+    border-radius: solid black;
+    margin: 5px;   
+}

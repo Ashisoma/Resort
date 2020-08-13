@@ -1,0 +1,16 @@
+nav{
+    text-align: end;
+    padding: 20px;
+}
+nav ul li{
+    padding: 20px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none ;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul li a:hover{
+    border: olivedrab;
+}
