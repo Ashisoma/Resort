@@ -1,5 +1,12 @@
 body{
-    background: linear-gradient(to right, #9c27b0,);
+    background-color: limegreen;
+}
+
+}
+.main{
+    border-radius: 1px solid black;
+    box-shadow: gray;
+    background-color:lightslategray maroon;
 
 }
 
@@ -26,4 +33,6 @@ img{
 }
 p{
     font-size: 25px;
+    justify-content: center;
+    text-align: center;
 }
